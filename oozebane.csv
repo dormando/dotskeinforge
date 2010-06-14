@@ -1,5 +1,5 @@
 Format is tab separated preferences.
-Activate Oozebane	True
+Activate Oozebane	False
 After Startup Distance (millimeters):	0.275
 Early Shutdown Distance (millimeters):	0.2
 Early Startup Distance Constant (millimeters):	20.0
